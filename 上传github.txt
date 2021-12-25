@@ -1,0 +1,22 @@
+新建一个文件夹test  
+
+右键项目名 ->  Git bash here
+
+1.初始化
+git init
+
+2.将要上传的代码或文件复制到test文件夹中
+
+3.  git add .
+
+4. git commit  -m "first commit"
+
+5.  git remote add origin       git@github.com:boweling/test.git    连接远程仓库（后面这段链接是仓库的远程地址）
+
+6.  先拉取远程仓库中原有的内容更新到本地
+git pull --rebase origin master
+
+7.再将复制进来的文件和拉下来的代码一并上传
+git push -u origin master
+
+
