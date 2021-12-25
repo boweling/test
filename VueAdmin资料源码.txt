@@ -1,0 +1,19 @@
+VueAdmin - 前后端分离后台管理系统
+
+线上演示：https://www.markerhub.com/vueadmin
+登录密码：1234567
+
+前端笔记：https://www.zhuawaba.com/post/18
+
+后端笔记：https://www.zhuawaba.com/post/19
+
+源码分享：
+https://github.com/markerhub/vueadmin
+https://gitee.com/markerhub/VueAdmin
+
+sql脚本路径：
+/vueadmin/vueadmin-java/数据库脚本 - vueadmin.sql
+
+视频讲解：https://www.bilibili.com/video/BV1af4y1s7Wh/
+
+加群学习：请添加微信 java-mindman3，备注【VueAdmin】我会拉你进群！
